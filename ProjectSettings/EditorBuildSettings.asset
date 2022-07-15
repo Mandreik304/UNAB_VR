@@ -11,19 +11,19 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Educativo_Scene.unity
     guid: 858a49ce96f8b0449870407ee7ee435c
   - enabled: 0
     path: Assets/AutoHand/Examples/Scenes/XR/Demo.unity
     guid: 9935fff7a54383d4a8ca954c1411c833
-  - enabled: 0
+  - enabled: 1
     path: "Assets/Scenes/Inform\xE1tica.unity"
     guid: 337343a8d7a0e0b47aa6cfdb01614c04
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Arquitectura.unity
     guid: 3a470ce23aa1fe04a92ba043ddbbf2e8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/SalaHospital.unity
     guid: c96ef3fc4cd7ce640921cb9dbc3fb784
   - enabled: 0
