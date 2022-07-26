@@ -11,8 +11,12 @@ public class HeartScript : MonoBehaviour
 
     }
 
+<<<<<<< HEAD
     private void OnCollisionEnter(Collision collision)
     {
         
     }
+=======
+
+>>>>>>> Aaron
 }
